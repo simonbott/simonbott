@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Simon! 👋
 
-<!--
-**simonbott/simonbott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student passionate about coding since 2018, with a keen interest in both computer science and physics. 
+Java is my primary programming language, and I've accumulated substantial experience with it over the years. 
+My coding journey began with Java in early 2018.
 
-Here are some ideas to get you started:
+#### 🔧 Technologies & Skills:
+- **Java:** Several years of hands-on experience.
+- **GLSL:** Experienced in shader development.
+- **C++ & Python:** Still learning and exploring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About Me:
+- 🚀 Passionate about coding and its applications in physics.
+- 💡 Enjoy exploring the world of shaders through GLSL.
+- 📚 Aspiring to study Computer Science or Physics in the future.
